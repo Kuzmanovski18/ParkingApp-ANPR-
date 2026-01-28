@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AnprParking.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:65137;http://localhost:65138"
+    }
+  }
+}
